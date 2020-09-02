@@ -6,4 +6,5 @@ RUN apt-get update \
     dnsutils \
     telnet \
     vim \
-    jq
+    jq \
+    nc
