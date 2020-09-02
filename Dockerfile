@@ -5,6 +5,7 @@ RUN apt-get update \
     curl \
     dnsutils \
     telnet \
-    vim
+    vim \
+    jq
 
 CMD ["sh"]
