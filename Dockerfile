@@ -7,5 +7,3 @@ RUN apt-get update \
     telnet \
     vim \
     jq
-
-CMD ["sh"]
