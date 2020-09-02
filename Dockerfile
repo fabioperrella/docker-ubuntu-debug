@@ -7,4 +7,4 @@ RUN apt-get update \
     telnet \
     vim \
     jq \
-    nc
+    netcat
