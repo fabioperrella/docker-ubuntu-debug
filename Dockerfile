@@ -8,4 +8,5 @@ RUN apt-get update \
     vim \
     jq \
     netcat \
-    wget
+    wget \
+    mysql-client
